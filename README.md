@@ -1,2 +1,3 @@
 # rsschool-cv
-https://github.com/alexteak/rsschool-cv/blob/gh-pages/cv.md
+https://alexteak.github.io/rsschool-cv/cv
+https://alexteak.github.io/rsschool-cv/
