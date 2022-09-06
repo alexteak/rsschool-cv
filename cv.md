@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/111242913/188671494-7bb9a039-d0d8-440b-a9f4-2d9912823b17.png)
+
 Alexandr Noskov
 
 Contacts:
