@@ -3,17 +3,24 @@
 Alexandr Noskov
 
 Contacts:
+
   -Vk: Vk.com/id222533522
+  
   -Telegram: @lovealpaca
+  
   -Discord: DatAlpacaTho'#0278
+  
   -EMail: getkreep@gmail.com
+  
 
 About myself: 
+
   24y.o. Pursuing expanding knowledge in IT be it either Front-end, back-end or fullstack. 
   Best qualities: attention to details, passion for coding, good educability.
   Skillset: basics of JS, node.js, github, html. In proccess of learning mongoDB. 
 
 Code examples:
+
   -https://editor.p5js.org/getkreep@gmail.com/sketches/NgRDAHic8
   Local 2-player Connect 4 with auto-check for victory
 
@@ -31,5 +38,7 @@ Code examples:
 No relevant working experience
 
 Languages: 
+
   -Russian - Native
+  
   -English - B2-C1
