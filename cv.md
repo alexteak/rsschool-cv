@@ -16,7 +16,9 @@ Contacts:
 About myself: 
 
   24y.o. Pursuing expanding knowledge in IT be it either Front-end, back-end or fullstack. 
+  
   Best qualities: attention to details, passion for coding, good educability.
+  
   Skillset: basics of JS, node.js, github, html. In proccess of learning mongoDB. 
 
 Code examples:
