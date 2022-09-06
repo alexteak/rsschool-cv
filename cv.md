@@ -1,6 +1,7 @@
 Alexandr Noskov
 
 Contacts:
+
   -Vk: Vk.com/id222533522
   -Telegram: @lovealpaca
   -Discord: DatAlpacaTho'#0278
@@ -12,6 +13,7 @@ About myself:
   Skillset: basics of JS, node.js, github, html. In proccess of learning mongoDB. 
 
 Code examples:
+
   -https://editor.p5js.org/getkreep@gmail.com/sketches/NgRDAHic8
   Local 2-player Connect 4 with auto-check for victory
 
@@ -29,5 +31,6 @@ Code examples:
 No relevant working experience
 
 Languages: 
+
   -Russian - Native
   -English - B2-C1
